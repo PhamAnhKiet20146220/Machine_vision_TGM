@@ -1,0 +1,48 @@
+def menu():
+    print("[1] Vẽ hình chữ nhật")
+    print("[2] Tính diện tích hình chữ nhật")
+    print("[3] Tính điểm trung bình")
+    print("[0] Kết thúc")
+
+def nhap_diem(a, b):
+    tb = (a + b * 2) / 3
+    return tb
+
+def main():
+    while True:
+        menu()
+        
+        u = int(input("Nhập số: "))
+        
+        if u == 1:
+            n=int(input ("Nhập số cột:"))
+            a=int(input('Nhập số hàng:'))
+            c=input ("Nhập kí hiệu:")
+            for i in range(a):
+                for j in range(n):
+                    print (c, end='')
+                print(" ")
+            input ()
+            
+        elif u == 2:
+            cd = float(input("Nhập chiều dài: "))
+            cr = float(input("Nhập chiều rộng: "))
+            c = cd * cr
+            print("Diện tích HCN:", c)
+            
+        elif u == 3:
+            a = float(input("Nhập điểm lý thuyết: "))
+            b = float(input("Nhập điểm thực hành: "))
+            dtb = nhap_diem(a, b)
+            print("Điểm trung bình:", round(dtb, 2))
+            
+        else:
+            print("Lựa chọn không hợp lệ")
+            
+            m = input("Bạn có muốn tiếp tục không? có ( y ) hoặc không ( n ) ")
+            if m == 'n':              
+                while True:
+                    input()
+            
+  
+main()

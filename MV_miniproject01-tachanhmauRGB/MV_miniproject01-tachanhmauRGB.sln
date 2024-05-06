@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MV_miniproject01-tachanhmauRGB", "MV_miniproject01-tachanhmauRGB\MV_miniproject01-tachanhmauRGB.csproj", "{1377A004-A185-426A-A6C2-6AF0029E6A86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1377A004-A185-426A-A6C2-6AF0029E6A86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1377A004-A185-426A-A6C2-6AF0029E6A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1377A004-A185-426A-A6C2-6AF0029E6A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1377A004-A185-426A-A6C2-6AF0029E6A86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {807A7FD1-B056-4FF3-826A-DA1E2B9F72FF}
+	EndGlobalSection
+EndGlobal

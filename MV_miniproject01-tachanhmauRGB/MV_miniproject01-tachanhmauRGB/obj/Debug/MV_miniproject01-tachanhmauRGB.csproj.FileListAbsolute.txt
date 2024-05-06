@@ -1,0 +1,10 @@
+D:\Machine Vision\MV_miniproject01-tachanhmauRGB\MV_miniproject01-tachanhmauRGB\bin\Debug\MV_miniproject01-tachanhmauRGB.exe.config
+D:\Machine Vision\MV_miniproject01-tachanhmauRGB\MV_miniproject01-tachanhmauRGB\bin\Debug\MV_miniproject01-tachanhmauRGB.exe
+D:\Machine Vision\MV_miniproject01-tachanhmauRGB\MV_miniproject01-tachanhmauRGB\bin\Debug\MV_miniproject01-tachanhmauRGB.pdb
+D:\Machine Vision\MV_miniproject01-tachanhmauRGB\MV_miniproject01-tachanhmauRGB\obj\Debug\MV_miniproject01-tachanhmauRGB.csproj.AssemblyReference.cache
+D:\Machine Vision\MV_miniproject01-tachanhmauRGB\MV_miniproject01-tachanhmauRGB\obj\Debug\MV_miniproject01_tachanhmauRGB.Form1.resources
+D:\Machine Vision\MV_miniproject01-tachanhmauRGB\MV_miniproject01-tachanhmauRGB\obj\Debug\MV_miniproject01_tachanhmauRGB.Properties.Resources.resources
+D:\Machine Vision\MV_miniproject01-tachanhmauRGB\MV_miniproject01-tachanhmauRGB\obj\Debug\MV_miniproject01-tachanhmauRGB.csproj.GenerateResource.cache
+D:\Machine Vision\MV_miniproject01-tachanhmauRGB\MV_miniproject01-tachanhmauRGB\obj\Debug\MV_miniproject01-tachanhmauRGB.csproj.CoreCompileInputs.cache
+D:\Machine Vision\MV_miniproject01-tachanhmauRGB\MV_miniproject01-tachanhmauRGB\obj\Debug\MV_miniproject01-tachanhmauRGB.exe
+D:\Machine Vision\MV_miniproject01-tachanhmauRGB\MV_miniproject01-tachanhmauRGB\obj\Debug\MV_miniproject01-tachanhmauRGB.pdb
